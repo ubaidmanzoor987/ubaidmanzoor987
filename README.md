@@ -29,7 +29,7 @@
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Node**, **React**, *React Native*, **Python**,  **Docker**, **RestAPIs**
 - 📫 Reach me: [linkedin.com/in/ubaidullah-manzoor/](https://www.linkedin.com/in/ubaidullah-manzoor/)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](Resume.pdf).
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
