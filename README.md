@@ -27,7 +27,7 @@
 - 🏢 I'm currently working at **Upwork**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
-- 💬 Ping me about **Node**, **React**, *React Native*, **Python**,  **Docker**, **RestAPIs**
+- 💬 Ping me about **Node**, **React**, **React Native**, **Python**,  **Docker**, **RestAPIs**
 - 📫 Reach me: [linkedin.com/in/ubaidullah-manzoor/](https://www.linkedin.com/in/ubaidullah-manzoor/)
 - 📝 Checkout my [Resume](Resume.pdf).
 
