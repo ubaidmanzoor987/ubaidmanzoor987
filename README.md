@@ -5,7 +5,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/ubaidmanzoor987" alt="Leet code rating" />
   </a>
   <a href="https://www.hackerrank.com/ubaidmanzoor789">
-    <img src="https://raw.githubusercontent.com/ubaidmanzoor789/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/9789238/m-ubaidullah-manzoor">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
