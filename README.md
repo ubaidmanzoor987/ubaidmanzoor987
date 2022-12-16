@@ -40,6 +40,8 @@
 
 ![Languages](https://wakatime.com/share/@ubaidmanzoor987/94420ed9-0f35-4138-b57b-490c78441159.svg)
 
+![Languages](https://wakatime.com/share/@ubaidmanzoor987/18ae3c71-ae46-472d-96fa-62d4b9d48b19.svg)
+
 #### Connect With Me
 
 <p left="center">
