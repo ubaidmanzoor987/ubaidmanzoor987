@@ -37,10 +37,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaidmanzoor987&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidmanzoor987&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
-
+<!-- 
 ![Languages](https://wakatime.com/share/@ubaidmanzoor987/94420ed9-0f35-4138-b57b-490c78441159.svg)
 
-![Languages](https://wakatime.com/share/@ubaidmanzoor987/18ae3c71-ae46-472d-96fa-62d4b9d48b19.svg)
+![Languages](https://wakatime.com/share/@ubaidmanzoor987/18ae3c71-ae46-472d-96fa-62d4b9d48b19.svg) -->
 
 #### Connect With Me
 
