@@ -48,10 +48,10 @@
 | ----------- | ---------- | --------------------- | ----------------- | ------------------------- |---------------- |
 | HTML        | Javascript | React                 | PostgreSQL        | AWS (Amazon Web Services) | Git             |
 | CSS         | Typescript | React Native          | MySQL             |   - EC2                   | Docker          |
-| Javascript  | Node.js    | Next.js               | Mongo Db          |   - Lambda                |                 |
-|             | Python     | Redux                 | Dynamo Db         |   - S3                    |                 |
-|             |            | Angular Js            |                   |   - Cloud Watch           |                 |
-|             |            | Express Js            |                   | Google Cloud Platform     |                 |
+| Javascript  | Node.js    | Next.js               | Mongo Db          |   - Lambda                | Jenkins         |
+|             | Python     | Redux                 | Dynamo Db         |   - S3                    | Kubernetes      |
+|             |            | Angular Js            | Redis             |   - Cloud Watch           | Sysmon          |
+|             |            | Express Js            | Firebase          | Google Cloud Platform     |                 |
 |             |            | Nest Js               |                   |   - Compute Engine        |                 |
 |             |            | Fastify               |                   |   - Kubernetes Engine     |                 |
 |             |            | Flask Api             |                   |   - Cloud Functions       |                 |   
