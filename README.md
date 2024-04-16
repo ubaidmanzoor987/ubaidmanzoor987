@@ -139,7 +139,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 - Description: Helping brand owners cut through the complexity of soda bottle handling. Offering co2 bottle handling from A to Z.
 - [View Project](https://app.sodahub.eu/)
 
-- **Galaxi Mobile App**
+**Galaxi Mobile App**
 - Technologies: React Native, Node.js, Nest.js
 - Description: Operate with an affiliated AI-driven analytical system that predicts potential stock rises.
 - [View Project]([https://play.google.com/store/apps/details?id=com.galaxi.android](https://play.google.com/store/apps/details?id=com.galaxi.android))
