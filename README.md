@@ -46,17 +46,17 @@
 
 | Front-end   | Back-end   | Frameworks/Libraries  | Databases         | Cloud Services            | Other           |
 | ----------- | ---------- | --------------------- | ----------------- | ------------------------- |---------------- |
-| HTML        | Javascript | React                 | PostgreSQL        | AWS (Amazon Web Services) | Git             |
-| CSS         | Typescript | React Native          | MySQL             |   - EC2                   | Docker          |
-| Javascript  | Node.js    | Next.js               | Mongo Db          |   - Lambda                | Jenkins         |
-|             | Python     | Redux                 | Dynamo Db         |   - S3                    | Kubernetes      |
-|             |            | Angular Js            | Redis             |   - Cloud Watch           | Sysmon          |
-|             |            | Express Js            | Firebase          | Google Cloud Platform     |                 |
-|             |            | Nest Js               |                   |   - Compute Engine        |                 |
-|             |            | Fastify               |                   |   - Kubernetes Engine     |                 |
-|             |            | Flask Api             |                   |   - Cloud Functions       |                 |   
-|             |            | Django                |                   |   - Cloud Functions       |                 |   
-|             |            | Fast Api              |                   |   - Cloud Functions       |                 |   
+| HTML        | Javascript | Frontend              | PostgreSQL        | AWS (Amazon Web Services) | Git             |
+| CSS         | Typescript |  - React & Next Js    | MySQL             |   - EC2                   | Docker          |
+| Javascript  | Node.js    |  - React Native       | Mongo Db          |   - Lambda Function       | Jira            |
+| Bootstrap   | Python     |  - Redux   \          | Dynamo Db         |   - S3                    | Clickup         |
+| MIUI        |            |  - Vue Js & Nuxt Js   | Redis             |   - Cloud Watch           | Trello          |      
+| CHAKRA UI   |            | Backend               | Firebase          |   - SLS                   |                 |
+|             |            |  - Nest Js            |                   |   - SES                   |                 |
+|             |            |  - Express & Fastify  |                   |   - CDK                   |                 |
+|             |            | Python                |                   |   - Cloudfront            |                 |   
+|             |            |  - Flask Api          |                   |                           |                 |   
+|             |            |  - Fast Api           |                   |                           |                 |   
 
 <!-- 🎓 Education -->
 ## 🎓 Education
@@ -93,21 +93,21 @@ National College of Business Administration & Economics (NCBA & E)
 
 <!-- 💼 Professional Experience -->
 ## 💼 Professional Experience
-**Full Stack Software Developer**
-Upwork
-Apr, 2020 – Present | Remote
+**Development Team Lead**
+Meissasoft
+June, 2020 – Present | Hybrid
 
 **Full Stack Software Developer**
 Vaionex Corporation
-July, 2022 – June 2023 | Remote
+August, 2022 – June 2023 | Remote
 
 **Front End Software Developer**
 Sonra Intelligence
 May, 2021 – June 2022 | Remote
 
-**Associate Software Engineer**
-Meissasoft
-Aug, 2018 – Mar, 2020 | Lahore, Pakistan
+**Teacher Assistant**
+National College Of Business Administration & Economics
+Jan, 2018 – December, 2020 | Lahore, Pakistan
 
 <!-- 💪 Strengths -->
 ## 💪 Strengths
@@ -139,9 +139,14 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 - Description: Helping brand owners cut through the complexity of soda bottle handling. Offering co2 bottle handling from A to Z.
 - [View Project](https://app.sodahub.eu/)
 
+- **Galaxi Mobile App**
+- Technologies: React Native, Node.js, Nest.js
+- Description: Operate with an affiliated AI-driven analytical system that predicts potential stock rises.
+- [View Project]([https://play.google.com/store/apps/details?id=com.galaxi.android](https://play.google.com/store/apps/details?id=com.galaxi.android))
+
 <!-- 🌐 Languages -->
 ## 🌐 Languages
-- English ● ● ● ● ●
+- English ● ● ● ● 
 - Urdu ● ● ● ● ●
 
 <!-- Contact Info -->
