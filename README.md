@@ -142,7 +142,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 **Galaxi Mobile App**
 - Technologies: React Native, Node.js, Nest.js
 - Description: Operate with an affiliated AI-driven analytical system that predicts potential stock rises.
-- [View Project]([https://play.google.com/store/apps/details?id=com.galaxi.android](https://play.google.com/store/apps/details?id=com.galaxi.android))
+- [View Project](https://play.google.com/store/apps/details?id=com.galaxi.android)
 
 <!-- 🌐 Languages -->
 ## 🌐 Languages
