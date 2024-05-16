@@ -39,28 +39,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidmanzoor987&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
-<!-- 🌐 Programming Languages -->
+<!-- Programming Languages -->
 ## 🌐 Programming Languages
-
-| Front-end   | Back-end   | Frameworks/Libraries  | Databases         | Cloud Services            | Other           |
-| ----------- | ---------- | --------------------- | ----------------- | ------------------------- |---------------- |
-| HTML        | Javascript | Frontend              | PostgreSQL        | AWS (Amazon Web Services) | Git             |
-| CSS         | Typescript |  - React & Next Js    | MySQL             |   - EC2                   | Docker          |
-| Javascript  | Node.js    |  - React Native       | Mongo Db          |   - Lambda Function       | Jira            |
-| Bootstrap   | Python     |  - Redux   \          | Dynamo Db         |   - S3                    | Clickup         |
-| MIUI        |            |  - Vue Js & Nuxt Js   | Redis             |   - Cloud Watch           | Trello          |      
-| CHAKRA UI   |            | Backend               | Firebase          |   - SLS                   |                 |
-|             |            |  - Nest Js            |                   |   - SES                   |                 |
-|             |            |  - Express & Fastify  |                   |   - CDK                   |                 |
-|             |            | Python                |                   |   - Cloudfront            |                 |   
-|             |            |  - Flask Api          |                   |                           |                 |   
-|             |            |  - Fast Api           |                   |                           |                 |   
+<details>
+  <summary>Click to expand!</summary>
+  
+  | Front-end   | Back-end   | Frameworks/Libraries  | Databases         | Cloud Platforms            | Other           |
+  | ----------- | ---------- | --------------------- | ----------------- | ---------------------------|---------------- |
+  | HTML        | Javascript | React & Next.js       | PostgreSQL        | AWS, Azure, Google Cloud   | Git             |
+  | CSS         | Typescript | React Native          | MySQL             | Digital Ocean, Heroku      | Docker          |
+  | Javascript  | Node.js    | Vue.js & Nuxt.js      | MongoDB           | Firebase                   | Jira            |
+  | Bootstrap   | Python     | Redux                 | DynamoDB          | Alibaba Cloud, IBM Cloud   | Clickup         |
+  | MIUI        |            | Express & Fastify     | Redis             | Oracle Cloud               | Trello          |      
+  | CHAKRA UI   |            | Nest.js               |                   |                           |                 |
+  |             |            | Flask Api             |                   |                           |                 |   
+  |             |            | Fast Api              |                   |                           |                 | 
+</details> 
 
 <!-- 🎓 Education -->
 ## 🎓 Education
 **Bachelors in Computer Science (CGPA: 3.8)**
 National College of Business Administration & Economics (NCBA & E)
-2018 – 2022 | Lahore, Pakistan
+2015 – 2019 | Lahore, Pakistan
 
 <!-- 🚀 Certifications -->
 ## 🚀 Certifications
@@ -92,7 +92,7 @@ National College of Business Administration & Economics (NCBA & E)
 <!-- 💼 Professional Experience -->
 ## 💼 Professional Experience
 **Development Team Lead**
-Meissasoft
+Upwork
 June, 2020 – Present | Hybrid
 
 **Full Stack Software Developer**
@@ -103,9 +103,6 @@ August, 2022 – June 2023 | Remote
 Sonra Intelligence
 May, 2021 – June 2022 | Remote
 
-**Teacher Assistant**
-National College Of Business Administration & Economics
-Jan, 2018 – December, 2020 | Lahore, Pakistan
 
 <!-- 💪 Strengths -->
 ## 💪 Strengths
@@ -122,7 +119,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 
 <!-- 🚀 Recent Projects -->
 ## 🚀 Recent Projects
-**LilBit**
+**DigiCert**
 - Technologies: Tailwind CSS, React, Next.js, Redux toolkit, Node.js, Nest.js
 - Description: Bet on your favorite teams, players, and leagues from around the world on our sports betting platform.
 - [View Project](https://lilbit.vaionex.cloud/)
@@ -150,9 +147,6 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 <!-- Contact Info -->
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ubaidullah-manzoor/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
   <a href="mailto:ubaidmanzoor987@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
