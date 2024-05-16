@@ -31,8 +31,6 @@
 - ⚙️ Daily tools: `.py`, `.js`, `.ts`, `.sh`
 - 🌱 Learning more about **DevOps & Full Stack Development**
 - 💬 Let's chat about **Node.js**, **React**, **React Native**, **Python**,  **Docker**, **REST APIs**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ubaidullah-manzoor/)
-- 📝 Check out my [Resume](Resume.pdf)
 
 <!-- GitHub Stats -->
 ## ⚡ GitHub Stats
