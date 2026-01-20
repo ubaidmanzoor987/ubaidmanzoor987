@@ -3,9 +3,6 @@
 
 <!-- Social Media Badges -->
 <p align="left">
-  <a href="https://leetcode.com/ubaidmanzoor987/">
-    <img src="https://cp-logo.vercel.app/leetcode/ubaidmanzoor987" alt="LeetCode Rating" />
-  </a>
   <a href="https://www.hackerrank.com/ubaidmanzoor789">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="HackerRank Rating" />
   </a>
@@ -143,11 +140,3 @@ Artificial Intelligence | Machine Learning | Deep Learning | Neural Networks
 ## 🌐 Languages
 - English ● ● ● ● 
 - Urdu ● ● ● ● ●
-
-<!-- Contact Info -->
-## 📫 Connect With Me
-<p align="left">
-  <a href="mailto:ubaidmanzoor987@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-</p>
