@@ -57,7 +57,7 @@
 ## 🎓 Education
 **Bachelors in Computer Science **
 Technische Universität Berlin
-2014 – 2018 | Lahore, Pakistan
+2014 – 2018 
 
 <!-- 🚀 Certifications -->
 ## 🚀 Certifications
