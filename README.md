@@ -55,9 +55,9 @@
 
 <!-- 🎓 Education -->
 ## 🎓 Education
-**Bachelors in Computer Science (CGPA: 3.8)**
-National College of Business Administration & Economics (NCBA & E)
-2015 – 2019 | Lahore, Pakistan
+**Bachelors in Computer Science **
+Technische Universität Berlin
+2014 – 2018 | Lahore, Pakistan
 
 <!-- 🚀 Certifications -->
 ## 🚀 Certifications
